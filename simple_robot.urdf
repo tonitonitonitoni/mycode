@@ -124,6 +124,15 @@
             <origin xyz="0 0 0" rpy="0 0 0"/>
             <material name="grey" />
         </visual>
+        <collision>
+            <geometry>
+                <sphere radius="0.05" />
+            </geometry>
+        </collision>
+        <inertial>
+            <mass value="0.25"/>
+            <inertia ixx="0.00025" ixy="0.0" ixz="0.0" iyy="0.00025" iyz="0.0" izz="0.00025" />
+        </inertial>
     </link>
 
     <joint name="base_caster_wheel_joint" type="fixed">
