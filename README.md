@@ -1,8 +1,8 @@
 This is my code, mostly for personal use but I want to explain it better.
 # My To Do list
-https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
-https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py
-https://youtu.be/BeI7DZxPadw?si=tmZ7IcOfsAaTZa5B&t=230  REMAPPING TOPICS
+- https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
+- https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py
+- https://youtu.be/BeI7DZxPadw?si=tmZ7IcOfsAaTZa5B&t=230  REMAPPING TOPICS
 
 
 ## ArucoRWMulti.  
