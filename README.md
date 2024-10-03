@@ -1,6 +1,6 @@
 This is my code, mostly for personal use but I want to explain it better.
 # My Device-Agnostic To Do list
-- https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
+- Get KNN algorithm code onto Jetson - get ready to bring it up to DV
 - https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py
 - https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i
 - UPLOAD files from Jetson PycharmProjects
@@ -11,7 +11,8 @@ This is my code, mostly for personal use but I want to explain it better.
 - and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
 
 ## later
-- set up the Arduino IDE on the Jetson, install rosserial and try to blink an LED on the arduino leonardo, with ROS
+- https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
+- set up the Arduino IDE on the Jetson, install rosserial and try to blink an LED on the arduino leonardo, *with ROS!* 
 - then see if you can PWM some motors that way
 - https://automaticaddison.com/how-to-control-a-robots-velocity-remotely-using-ros/
 - https://automaticaddison.com/how-to-publish-wheel-odometry-information-over-ros/
