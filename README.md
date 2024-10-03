@@ -13,6 +13,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - then see if you can PWM some motors that way
 - https://automaticaddison.com/how-to-control-a-robots-velocity-remotely-using-ros/
 - https://automaticaddison.com/how-to-publish-wheel-odometry-information-over-ros/
+- https://www.youtube.com/watch?v=M8BlIjaz7pU dead reckoning with arduino and ROS noetic
 
 
 ## ArucoRWMulti.  
