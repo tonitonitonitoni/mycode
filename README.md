@@ -1,8 +1,16 @@
 This is my code, mostly for personal use but I want to explain it better.
-# My To Do list
+# My Device-Agnostic To Do list
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
 - https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py
-- https://youtu.be/BeI7DZxPadw?si=tmZ7IcOfsAaTZa5B&t=230  REMAPPING TOPICS
+- https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i
+- UPLOAD files from Jetson PycharmProjects
+- Download realsense2_description (sudo apt-get install ros-$ROS_DISTRO-realsense2-description) and run view_d435i_model.launch
+- examine pointcloud in rviz with roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
+- 3D reconstruction with Open3D's realsense_recorder.py https://www.open3d.org/docs/release/tutorial/reconstruction_system/capture_your_own_dataset.html
+
+## later
+- set up the Arduino IDE on the Jetson, install rosserial and try to blink an LED on the arduino leonardo, with ROS
+- then see if you can PWM some motors that way
 
 
 ## ArucoRWMulti.  
