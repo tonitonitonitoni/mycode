@@ -11,6 +11,8 @@ This is my code, mostly for personal use but I want to explain it better.
 ## later
 - set up the Arduino IDE on the Jetson, install rosserial and try to blink an LED on the arduino leonardo, with ROS
 - then see if you can PWM some motors that way
+- https://automaticaddison.com/how-to-control-a-robots-velocity-remotely-using-ros/
+- https://automaticaddison.com/how-to-publish-wheel-odometry-information-over-ros/
 
 
 ## ArucoRWMulti.  
