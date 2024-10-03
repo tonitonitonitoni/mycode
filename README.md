@@ -7,6 +7,8 @@ This is my code, mostly for personal use but I want to explain it better.
 - Download realsense2_description (sudo apt-get install ros-$ROS_DISTRO-realsense2-description) and run view_d435i_model.launch
 - examine pointcloud in rviz with roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
 - 3D reconstruction with Open3D's realsense_recorder.py https://www.open3d.org/docs/release/tutorial/reconstruction_system/capture_your_own_dataset.html
+- See if you can set up the receding horizon next best view planner, https://github.com/ethz-asl/nbvplanner
+- and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
 
 ## later
 - set up the Arduino IDE on the Jetson, install rosserial and try to blink an LED on the arduino leonardo, with ROS
