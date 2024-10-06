@@ -10,14 +10,15 @@ This is my code, mostly for personal use but I want to explain it better.
 - See if you can set up the receding horizon next best view planner, https://github.com/ethz-asl/nbvplanner
 - and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
 
+
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
-- set up the Arduino IDE on the Jetson, install rosserial and try to blink an LED on the arduino leonardo, *with ROS!* 
+- set up the Arduino IDE on the Jetson, install rosserial and try to dim an LED on the arduino leonardo, *with ROS!* 
 - then see if you can PWM some motors that way
 - https://automaticaddison.com/how-to-control-a-robots-velocity-remotely-using-ros/
 - https://automaticaddison.com/how-to-publish-wheel-odometry-information-over-ros/
 - https://www.youtube.com/watch?v=M8BlIjaz7pU dead reckoning with arduino and ROS noetic
-
+- Re-do the tutorials from jetson-inference
 
 ## ArucoRWMulti.  
 This code finds a real-world pose from multiple Aruco Markers.  It is a work in progress. It is mostly taken from several blogs.  First, Automatic Addison helped me with the rotation matrix code.  
