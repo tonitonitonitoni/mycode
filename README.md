@@ -9,7 +9,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - 3D reconstruction with Open3D's realsense_recorder.py https://www.open3d.org/docs/release/tutorial/reconstruction_system/capture_your_own_dataset.html
 - See if you can set up the receding horizon next best view planner, https://github.com/ethz-asl/nbvplanner
 - and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
-
+- https://github.com/ethz-asl/StructuralInspectionPlanner  this is so old, but maybe it will work with Noetic and/or you can just install ROS Indigo on Ubuntu 14.04 (ugh)
 
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
@@ -20,6 +20,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - https://www.youtube.com/watch?v=M8BlIjaz7pU dead reckoning with arduino and ROS noetic
 - Re-do the tutorials from jetson-inference
 
+# Programs in this repo
 ## ArucoRWMulti.  
 This code finds a real-world pose from multiple Aruco Markers.  It is a work in progress. It is mostly taken from several blogs.  First, Automatic Addison helped me with the rotation matrix code.  
 The biggest new development is the transformation from camera coords into real world coords.  This was provided by OutOfTheBOTS on Youtube.  I will put links in here later.
