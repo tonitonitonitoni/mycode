@@ -10,6 +10,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - See if you can set up the receding horizon next best view planner, https://github.com/ethz-asl/nbvplanner
 - and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
 - https://github.com/ethz-asl/StructuralInspectionPlanner  this is so old, but maybe it will work with Noetic and/or you can just install ROS Indigo on Ubuntu 14.04 (ugh)
+- https://github.com/uzh-rpg/rpg_ig_active_reconstruction Another old one which might need you to install Indigo
 
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
