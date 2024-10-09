@@ -12,6 +12,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - https://github.com/ethz-asl/StructuralInspectionPlanner  this is so old, but maybe it will work with Noetic and/or you can try to install ROS Indigo on Ubuntu 14.04 (ugh)
 - https://github.com/uzh-rpg/rpg_ig_active_reconstruction Another old one which might need you to install Indigo
 - Try Voxfield (this at least is ready for Noetic) https://github.com/VIS4ROB-lab/voxfield
+- https://github.com/ntnu-arl/rhem_planner Uncertainty-aware Receding Horizon Exploration and Mapping
 
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
