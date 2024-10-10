@@ -3,7 +3,6 @@ This is my code, mostly for personal use but I want to explain it better.
 - Upload important files from Jetson PycharmProjects
 - Download KNN algorithm code onto Jetson - get ready to bring it up to DV
 - https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py
-- https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i
 - Download realsense2_description (sudo apt-get install ros-$ROS_DISTRO-realsense2-description) and run view_d435i_model.launch
 - examine pointcloud in rviz with roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
 - 3D reconstruction with Open3D's realsense_recorder.py https://www.open3d.org/docs/release/tutorial/reconstruction_system/capture_your_own_dataset.html
@@ -22,6 +21,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - https://automaticaddison.com/how-to-publish-wheel-odometry-information-over-ros/
 - https://www.youtube.com/watch?v=M8BlIjaz7pU dead reckoning with arduino and ROS noetic
 - Re-do the tutorials from jetson-inference
+- https://github.com/IntelRealSense/realsense-ros/wiki/SLAM-with-D435i
 
 # Programs in this repo
 ## ArucoRWMulti.  
