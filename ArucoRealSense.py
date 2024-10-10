@@ -7,7 +7,7 @@ from scipy.spatial.transform import Rotation as R
 # Side length of the ArUco marker in meters
 markerSize = 0.0528
 # Calibration parameters yaml file
-calFile = 'calibration_chessboard.yaml'
+calFile = 'RSCalChessboard.yaml'
 cv_file=cv2.FileStorage(calFile, cv2.FILE_STORAGE_READ)
 mtx=cv_file.getNode('K').mat()
 dist=cv_file.getNode('D').mat()
