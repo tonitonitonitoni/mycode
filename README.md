@@ -8,8 +8,6 @@ This is my code, mostly for personal use but I want to explain it better.
 - 3D reconstruction with Open3D's realsense_recorder.py https://www.open3d.org/docs/release/tutorial/reconstruction_system/capture_your_own_dataset.html
 - See if you can set up the receding horizon next best view planner, https://github.com/ethz-asl/nbvplanner
 - and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
-- https://github.com/ethz-asl/StructuralInspectionPlanner  this is so old, but maybe it will work with Noetic and/or you can try to install ROS Indigo on Ubuntu 14.04 (ugh)
-- https://github.com/uzh-rpg/rpg_ig_active_reconstruction Another old one which might need you to install Indigo
 - Try Voxfield (this at least is ready for Noetic) https://github.com/VIS4ROB-lab/voxfield
 - https://github.com/ntnu-arl/rhem_planner Uncertainty-aware Receding Horizon Exploration and Mapping
 
