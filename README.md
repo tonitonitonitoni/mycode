@@ -6,7 +6,8 @@ This is my code, mostly for personal use but I want to explain it better.
 - 3D reconstruction with Open3D's realsense_recorder.py https://www.open3d.org/docs/release/tutorial/reconstruction_system/capture_your_own_dataset.html
 - and 3D mobile robots code, https://github.com/luigifreda/3dmr/tree/main  For NBV Planner ported to Noetic see here https://github.com/luigifreda/3dmr/blob/main/README.exploration.md#3d-exploration-with-drones
 - Try Voxfield (this at least is ready for Noetic) https://github.com/VIS4ROB-lab/voxfield
-- https://github.com/ntnu-arl/rhem_planner Uncertainty-aware Receding Horizon Exploration and Mapping
+- https://github.com/ntnu-arl/rhem_planner Uncertainty-aware Receding Horizon Exploration and Mapping didn't work
+- https://github.com/robotic-esp/see-public Surface Edge Explorer
 
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
