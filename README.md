@@ -8,7 +8,7 @@ This is my code, mostly for personal use but I want to explain it better.
 - Try Voxfield (this at least is ready for Noetic) https://github.com/VIS4ROB-lab/voxfield
 - https://github.com/ntnu-arl/rhem_planner Uncertainty-aware Receding Horizon Exploration and Mapping didn't work
 - https://github.com/robotic-esp/see-public Surface Edge Explorer
-- https://simulation.readthedocs.io/en/latest/ OnOrbit ROS maybe this one will work
+- https://simulation.readthedocs.io/en/latest/ OnOrbit ROS this one kind of works but the satellite doesn't move
 
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
