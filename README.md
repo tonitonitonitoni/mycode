@@ -8,11 +8,12 @@ This is my code, mostly for personal use but I want to explain it better.
 - Try Voxfield (this at least is ready for Noetic) https://github.com/VIS4ROB-lab/voxfield
 - https://github.com/ntnu-arl/rhem_planner Uncertainty-aware Receding Horizon Exploration and Mapping didn't work
 - https://github.com/robotic-esp/see-public Surface Edge Explorer
+- https://simulation.readthedocs.io/en/latest/ OnOrbit ROS maybe this one will work
 
 ## later
 - https://dev.intelrealsense.com/docs/tensorflow-with-intel-realsense-cameras
 - set up the Arduino IDE on the Jetson, install rosserial and try to dim an LED on the arduino leonardo, *with ROS!* 
-- then see if you can PWM some motors that way
+- then see if you can PWM some motors that way OR via pyserial
 - https://automaticaddison.com/how-to-control-a-robots-velocity-remotely-using-ros/
 - https://automaticaddison.com/how-to-publish-wheel-odometry-information-over-ros/
 - https://www.youtube.com/watch?v=M8BlIjaz7pU dead reckoning with arduino and ROS noetic
