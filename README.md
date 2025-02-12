@@ -1,5 +1,8 @@
 This is my code, mostly for personal use but I want to explain it better.
 # My Device-Agnostic To Do list
+https://github.com/oz182/3D-Navigation---DWA-and-A-
+
+## old stuff
 - Upload important files from Jetson PycharmProjects
 - https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/export_ply_example.py
 - examine pointcloud in rviz with roslaunch realsense2_camera rs_camera.launch filters:=pointcloud
